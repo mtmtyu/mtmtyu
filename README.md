@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Discord bot.<br>🌱 I’m currently learning Python.
+🔭 I’m currently working on a Discord bot.<br>🌱 I’m currently learning Python and javascript.
 
 
 # 💻 Tech Stack:
