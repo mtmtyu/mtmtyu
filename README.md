@@ -15,6 +15,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mtmtyu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🐍 Snake
+![](<img src="https://raw.githubusercontent.com/mtmtyu/mtmtyu/output/snake.svg" alt="Snake animation" />)
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mtmtyu&icon=0&color=0)](https://visitcount.itsvg.in)
 
