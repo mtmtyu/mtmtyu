@@ -9,13 +9,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mtmtyu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtmtyu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=mtmtyu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=mtmtyu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🐍 Snake
+### 🐍 Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtmtyu/mtmtyu/main/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtmtyu/mtmtyu/main/img/snake.svg">
